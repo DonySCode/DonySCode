@@ -1,6 +1,8 @@
 # Hi Developer, I'm Dony 👋!
 
-![Profile GIF](https://i.pinimg.com/originals/df/1f/f3/df1ff3761db6929d52ec330e3c1b4bf1.gif)
+<div align="center">
+<img width="100%" height = "250px" src="https://i.pinimg.com/originals/df/1f/f3/df1ff3761db6929d52ec330e3c1b4bf1.gif" alt="cover" />
+</div>
 
 ## About Me
 
@@ -25,7 +27,7 @@
 ## Projects
 
 ### Mobile Development
-- [minerd-visitas-escolares-app](https://github.com/DonySCode/minerd-visitas-escolares-app) - A React Native app for school visits.
+- [Supervisión Escolar MINERD](https://github.com/DonySCode/minerd-visitas-escolares-app) - A React Native app for school visits.
 
 ### Web Development
 - [PLibraryX](https://github.com/DonySCode/plibraryx) - PLibraryX is a Nextjs - Expressjs project. This is a personal library management system, allowing you to organize your books efficiently. 
@@ -34,3 +36,4 @@
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dony%20Castro-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/donycastro/)
+[![Instagram](https://img.shields.io/badge/Instagram-Dony%20Castro-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/donycastroo)
