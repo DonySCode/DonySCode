@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi Developer, I'm Dony 👋!
 
-<!--
-**DonySCode/DonySCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile GIF](https://i.pinimg.com/originals/df/1f/f3/df1ff3761db6929d52ec330e3c1b4bf1.gif)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [WheelPixAPI](https://github.com/DonySCode/WheelPixAPI)
+- 🌱 I’m currently learning advanced web scraping techniques, API development and honing my frontend skills.
+- 👯 I’m looking to collaborate on open source projects related to web development and APIs
+- 💬 Ask me about JavaScript, Nextjs, Svelte, Node.js, and Express!
+- 📫 How to reach me: donycastro08@gmail.com
+- ⚡ Fun fact: I enjoy solving complex coding challenges, contributing to collaborative coding environments and playing videogames!!
+
+## Portfolio
+[![Visit my portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge)](https://donycastro.me)
+
+## GitHub Stats
+
+![DonySCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonySCode&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DonySCode&layout=compact&theme=radical)
+
+## Projects
+
+### Mobile Development
+- [minerd-visitas-escolares-app](https://github.com/DonySCode/minerd-visitas-escolares-app) - A React Native app for school visits.
+
+### Web Development
+- [PLibraryX](https://github.com/DonySCode/plibraryx) - PLibraryX is a Nextjs - Expressjs project. This is a personal library management system, allowing you to organize your books efficiently. 
+- [Ecommerce Frontend](https://github.com/DonySCode/ecommerce-frontend) - A Svelte.js project template for building e-commerce frontends.
+- [BulkyBookSample](https://github.com/DonySCode/BulkyBookSample) - A sample ASP.NET project for managing books in a bulky library system.
+
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dony%20Castro-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/donycastro/)
