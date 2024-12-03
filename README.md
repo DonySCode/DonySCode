@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [WheelPixAPI](https://github.com/DonySCode/WheelPixAPI)
+- 🔭 I’m currently working on [WheelPixAPI](https://github.com/DonySCode/WheelPixAPI) & [RentaEasy](https://github.com/DonySCode/RentaEasy)
 - 🌱 I’m currently learning advanced web scraping techniques, API development and honing my frontend skills.
 - 👯 I’m looking to collaborate on open source projects related to web development and APIs
 - 💬 Ask me about JavaScript, Nextjs, Svelte, Node.js, and Express!
