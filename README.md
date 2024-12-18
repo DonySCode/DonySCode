@@ -20,6 +20,8 @@
 
 ![DonySCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonySCode&show_icons=true&theme=radical)
 
+[![](https://visitcount.itsvg.in/api?id=donyscode&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DonySCode&layout=compact&theme=radical)
@@ -36,4 +38,4 @@
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dony%20Castro-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/donycastro/)
-[![Instagram](https://img.shields.io/badge/Instagram-Dony%20Castro-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/donycastroo)
+[![Instagram](https://img.shields.io/badge/Instagram-DonyCastroo-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/donycastroo)
