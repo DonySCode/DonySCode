@@ -1,4 +1,4 @@
-# Hi Developer, I'm Dony 👋!
+# Hi Visitor, I'm Dony 👋!
 
 <div align="center">
 <img width="100%" height = "250px" src="https://i.pinimg.com/originals/df/1f/f3/df1ff3761db6929d52ec330e3c1b4bf1.gif" alt="cover" />
